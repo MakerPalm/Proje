@@ -1,0 +1,11 @@
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\bin\Debug\Odev_Pastane.exe.config
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\bin\Debug\Odev_Pastane.exe
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\bin\Debug\Odev_Pastane.pdb
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.csprojAssemblyReference.cache
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.Form1.resources
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.exe
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.pdb
+C:\Users\Mahir\source\repos\Odev_Pastane\Odev_Pastane\obj\Debug\Odev_Pastane.Maliyet.resources
